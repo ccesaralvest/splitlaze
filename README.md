@@ -1,3 +1,14 @@
+Splitlaze é um projeto que aplica o conceito de Lazy Load e Split de Código. Com isso, conseguimos obter um carregamento controlado dos scripts da aplicação, carregando somente o que é importante.
+
+
+Utilizado como base a documentação abaixo do framework Create React App, podemos entender como a dinamica funciona.
+https://pt-br.reactjs.org/docs/code-splitting.html
+
+Nesse projeto, somente carregamos a página about quando ela é solicitada.
+
+Abaixo algumas informações do próprio framework.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
